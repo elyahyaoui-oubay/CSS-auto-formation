@@ -8,10 +8,12 @@ p {
   line-height: 20px;
 }
 
+/* Longeurs relative */
 .relative  
 p {
-    font-size: 16px;
-    line-height: 2em;
+    font-size: 10px;
+    line-height: 100%;
+    width: 100%;
   }
   
   div {
