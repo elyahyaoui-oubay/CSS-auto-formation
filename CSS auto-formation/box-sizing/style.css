@@ -1,0 +1,31 @@
+.div1 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+    margin-bottom: 2%;
+  }
+  
+  .div2 {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+    border: 1px solid red;
+    margin-bottom: 2%;
+  }
+
+  .div3 {
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+    margin-bottom: 2%;
+    box-sizing: border-box;
+  }
+
+  .div4 {
+    width: 300px;
+    height: 100px;  
+    padding: 50px;
+    border: 1px solid red;
+    margin-bottom: 2%;
+    box-sizing: border-box;
+  }
